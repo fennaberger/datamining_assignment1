@@ -1,0 +1,72 @@
+Pearson correlation for activity: 0.112
+P-value: 0.0001
+Significant
+
+Pearson correlation for circumplex.valence: 0.271
+P-value: 0.0000
+Significant
+
+Pearson correlation for circumplex.arousal: 0.082
+P-value: 0.0041
+Significant
+
+Pearson correlation for call: -0.016
+P-value: 0.5714
+Not significant
+
+Pearson correlation for sms: -0.048
+P-value: 0.0957
+Not significant
+
+Pearson correlation for screen: 0.041
+P-value: 0.1495
+Not significant
+
+Pearson correlation for appCat.other: 0.069
+P-value: 0.0162
+Significant
+
+Pearson correlation for appCat.finance: 0.014
+P-value: 0.6172
+Not significant
+
+Pearson correlation for appCat.social: -0.028
+P-value: 0.3209
+Not significant
+
+Pearson correlation for appCat.travel: 0.026
+P-value: 0.3628
+Not significant
+
+Pearson correlation for appCat.game: 0.073
+P-value: 0.0113
+Significant
+
+Pearson correlation for appCat.builtin: -0.059
+P-value: 0.0398
+Significant
+
+Pearson correlation for appCat.communication: 0.101
+P-value: 0.0004
+Significant
+
+Pearson correlation for appCat.unknown: 0.021
+P-value: 0.4631
+Not significant
+
+Pearson correlation for appCat.office: 0.130
+P-value: 0.0000
+Significant
+
+Pearson correlation for appCat.weather: 0.046
+P-value: 0.1064
+Not significant
+
+Pearson correlation for appCat.entertainment: 0.129
+P-value: 0.0000
+Significant
+
+Pearson correlation for appCat.utilities: 0.061
+P-value: 0.0323
+Significant
+
